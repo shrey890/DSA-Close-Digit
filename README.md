@@ -9,7 +9,7 @@ Expected Output: [[1, 6], [8, 10], [15, 18]]
 
 Task: Implement a function that rotates an array to the right by a given number of steps.
 
-## Sample Input: [1, 2, 3, 4, 5], 2
+Sample Input: [1, 2, 3, 4, 5], 2
 
 Expected Output: [4, 5, 1, 2, 3]
 
@@ -17,7 +17,7 @@ Expected Output: [4, 5, 1, 2, 3]
 
 Task: Create a function that returns the sum of the minimum values of all possible subarrays of a given array.
 
-## Sample Input: [3, 1, 2, 4]
+Sample Input: [3, 1, 2, 4]
 
 Expected Output: 17
 
