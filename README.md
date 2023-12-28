@@ -1,8 +1,7 @@
 ## Merge Overlapping Intervals:
 
 Task: Write a function that takes an array of intervals (represented as pairs [start, end]) and merges overlapping intervals.
-
-## Sample Input: [[1, 3], [2, 6], [8, 10], [15, 18]]
+Sample Input: [[1, 3], [2, 6], [8, 10], [15, 18]]
 
 Expected Output: [[1, 6], [8, 10], [15, 18]]
 
